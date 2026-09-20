@@ -1,3 +1,5 @@
+![Tableau Analytics Portfolio](https://github.com/Get-AZ/Tableau-Analytics-Portfolio/blob/main/Tableaue.png?raw=true)
+
 # Tableau Analytics Portfolio
 
 Tableau portfolio by Getamesay Zegeye featuring sales-performance analysis and earthquake geospatial analytics. The repository includes portable Tableau workbooks and their supporting Excel data files.
